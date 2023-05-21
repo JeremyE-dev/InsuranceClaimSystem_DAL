@@ -1,0 +1,14 @@
+C:\Users\eudal\source\repos\InsuranceClaimSystem_DAL\obj\Debug\net6.0\InsuranceClaimSystem_DAL.csproj.AssemblyReference.cache
+C:\Users\eudal\source\repos\InsuranceClaimSystem_DAL\obj\Debug\net6.0\InsuranceClaimSystem_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eudal\source\repos\InsuranceClaimSystem_DAL\obj\Debug\net6.0\InsuranceClaimSystem_DAL.AssemblyInfoInputs.cache
+C:\Users\eudal\source\repos\InsuranceClaimSystem_DAL\obj\Debug\net6.0\InsuranceClaimSystem_DAL.AssemblyInfo.cs
+C:\Users\eudal\source\repos\InsuranceClaimSystem_DAL\obj\Debug\net6.0\InsuranceClaimSystem_DAL.csproj.CoreCompileInputs.cache
+C:\Users\eudal\source\repos\InsuranceClaimSystem_DAL\bin\Debug\net6.0\InsuranceClaimSystem_DAL.deps.json
+C:\Users\eudal\source\repos\InsuranceClaimSystem_DAL\bin\Debug\net6.0\InsuranceClaimSystem_DAL.runtimeconfig.json
+C:\Users\eudal\source\repos\InsuranceClaimSystem_DAL\bin\Debug\net6.0\InsuranceClaimSystem_DAL.dll
+C:\Users\eudal\source\repos\InsuranceClaimSystem_DAL\bin\Debug\net6.0\InsuranceClaimSystem_DAL.pdb
+C:\Users\eudal\source\repos\InsuranceClaimSystem_DAL\obj\Debug\net6.0\InsuranceClaimSystem_DAL.dll
+C:\Users\eudal\source\repos\InsuranceClaimSystem_DAL\obj\Debug\net6.0\refint\InsuranceClaimSystem_DAL.dll
+C:\Users\eudal\source\repos\InsuranceClaimSystem_DAL\obj\Debug\net6.0\InsuranceClaimSystem_DAL.pdb
+C:\Users\eudal\source\repos\InsuranceClaimSystem_DAL\obj\Debug\net6.0\InsuranceClaimSystem_DAL.genruntimeconfig.cache
+C:\Users\eudal\source\repos\InsuranceClaimSystem_DAL\obj\Debug\net6.0\ref\InsuranceClaimSystem_DAL.dll
